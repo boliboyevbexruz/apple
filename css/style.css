@@ -1,0 +1,17 @@
+.fruits {
+    align-items:calc(50px);
+    gap: 40%;
+};
+
+.fruits2 {
+    margin-top: -50px;
+}
+
+.meva {
+    margin-top: 20px;
+}
+
+.for {
+margin-top: 40px;
+border: 2px solid black;
+}
